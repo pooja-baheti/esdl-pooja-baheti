@@ -12,6 +12,7 @@ return 0;
 int add()
 {
   int a,b,c;
+  cout<<"/nThe addition is :"
   c=a+b;
   cout<<c;
   
